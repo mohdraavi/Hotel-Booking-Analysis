@@ -48,6 +48,7 @@ another booking in City hotel. 5% guests return for stay in Resort hotel.</li>
 <li>July- August are the most busier and profitable months for both of hotels.</li>
 <li>For customers, generally the longer stays (more than 15 days) can result in better deals in terms of low adr.</li>
 <ul>
+  
 **Solution to Business Objective**
 <ul>
 <li>Majority of the hotels booked are city hotel. Definitely need to spend the most targeting fund on those hotel.</li>

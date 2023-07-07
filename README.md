@@ -121,3 +121,4 @@ another booking in City hotel. 5% guests return for stay in Resort hotel.</li>
 <li>Majority of the guests are from Western Europe. We should spend a significant amount of our budget on those area.</li>
 <li>Given that we do not have repeated guests, we should target our advertisement on guests to increase returning guests.</li>
 </ul>
+
